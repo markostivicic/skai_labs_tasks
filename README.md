@@ -5,6 +5,7 @@ It contains three files, each representing one of the tasks.
 In each file, there is a task description text and its solution.
 
 Task 1
+
   To run this program via the terminal, follow these steps:
   Open the terminal on your computer.
   Use the cd command to navigate to the directory where your index.html and main.js files are located.
@@ -14,6 +15,7 @@ Task 1
   Now, open a web browser and type the address http://localhost:8000/index.html to see the program's output.
 
 Task 2
+
   To run this Flask program through the terminal, follow these steps:
   Open the terminal.
   Navigate to the directory where your app.py file is located using the cd command.
@@ -26,6 +28,7 @@ Task 2
   Now you can open a web browser and enter the address http://127.0.0.1:5000/unauthorized-sales to send a POST request with JSON data to your Flask route /unauthorized-sales and see the response.
 
 Task 3
+
   To run this Flask program through the terminal, follow these steps:
   Open the terminal.
   Navigate to the directory where your task3.py file is located using the cd command.
