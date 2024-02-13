@@ -6,13 +6,13 @@ In each file, there is a task description text and its solution.
 
 Task 1
 
-  To run this program via the terminal, follow these steps:
-  Open the terminal on your computer.
-  Use the cd command to navigate to the directory where your index.html and main.js files are located.
-  Start a local web server from the terminal. If you have Python installed, you can use a simple HTTP server with this command:
-    python -m http.server
-  This command starts an HTTP server on your local machine. It will open the local server at the address http://localhost:8000/.
-  Now, open a web browser and type the address http://localhost:8000/index.html to see the program's output.
+  * To run this program via the terminal, follow these steps:
+  * Open the terminal on your computer.
+  * Use the cd command to navigate to the directory where your index.html and main.js files are located.
+  * Start a local web server from the terminal. If you have Python installed, you can use a simple HTTP server with this command:
+    * python -m http.server
+  * This command starts an HTTP server on your local machine. It will open the local server at the address http://localhost:8000/.
+  * Now, open a web browser and type the address http://localhost:8000/index.html to see the program's output.
 
 Task 2
 
